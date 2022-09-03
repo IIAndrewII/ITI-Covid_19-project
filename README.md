@@ -1,7 +1,7 @@
 # ITI-Covid_19-project
 
 By:
- - Ahmed
+ - Ahmed Essam
  - Andrew Samy
  - Hossam
  - Sabreen
@@ -54,3 +54,7 @@ This is the data repository for the 2019 Novel Coronavirus Visual Dashboard oper
 - **worldometer_data.csv** - Latest data from https://www.worldometers.info/
 
 ## Gallery: 
+
+![1](https://user-images.githubusercontent.com/94313948/188267912-27fcd2f9-5545-4315-af1e-0b41a2cc6174.JPG)
+https://public.tableau.com/app/profile/ahmed.essam2620/viz/CoronavirusCOVID-19Cases_16621311993380/Dashboard1
+
