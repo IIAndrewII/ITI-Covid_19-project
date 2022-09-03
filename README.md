@@ -44,7 +44,7 @@ This is the data repository for the 2019 Novel Coronavirus Visual Dashboard oper
 - Transmission rate (rate of infection) appeared to escalate in mid-January 2020
 - As of 30 January 2020, approximately 8,243 cases have been confirmed
 
-### Content
+### Content 
 
 - **full_grouped.csv** - Day to day country wise no. of cases (Has County/State/Province level data)
 - **covid19clean_complete.csv** - Day to day country wise no. of cases (Doesn't have County/State/Province level data)
