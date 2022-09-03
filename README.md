@@ -79,8 +79,13 @@ This is the data repository for the 2019 Novel Coronavirus Visual Dashboard oper
 
 
 ## Gallery: 
+tableau
 (1) https://public.tableau.com/app/profile/ahmed.essam2620/viz/CoronavirusCOVID-19Cases_16621311993380/Dashboard1
 ![1](https://user-images.githubusercontent.com/94313948/188267912-27fcd2f9-5545-4315-af1e-0b41a2cc6174.JPG)
+
+Power BI
+![006b4070-0189-4644-8429-55d0a9a638f1](https://user-images.githubusercontent.com/94313948/188277217-0b5fc64a-5d4d-44a7-bda7-5f39ac691b24.jpg)
+
 
 
 
