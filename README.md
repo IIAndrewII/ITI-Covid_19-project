@@ -49,6 +49,19 @@ This is the data repository for the 2019 Novel Coronavirus Visual Dashboard oper
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IIAndrewII/ITI-Covid_19-project/HEAD?labpath=https%3A%2F%2Fgithub.com%2FIIAndrewII%2FITI-Covid_19-project%2Fblob%2Fmain%2Fcovid-19-analysis.ipynb)
 
+![overvieu](https://user-images.githubusercontent.com/94313948/188273750-d23a13b3-b8cf-4414-aa5e-6d217b531536.JPG)
+![sample 1](https://user-images.githubusercontent.com/94313948/188273765-5343a0a7-2fee-44d0-b1d9-9e6c759a19d7.JPG)
+![sample 2](https://user-images.githubusercontent.com/94313948/188273771-9d7ed747-21b3-4fa6-a46e-a5f20529649e.JPG)
+![missing values](https://user-images.githubusercontent.com/94313948/188273774-72a1503f-cebe-451f-a2fb-c1b5b90d186a.JPG)
+![variables 1](https://user-images.githubusercontent.com/94313948/188273777-dc06d6fd-106e-40b1-bc3d-cf92ef3f9d94.JPG)
+![variables 2](https://user-images.githubusercontent.com/94313948/188273783-e3be9999-42e6-41f4-bf38-83a19827a8e5.JPG)
+![variables 3](https://user-images.githubusercontent.com/94313948/188273790-3b972b37-3ad3-48e6-b4c1-463c8a21a296.JPG)
+![variables 4](https://user-images.githubusercontent.com/94313948/188273799-aa47c632-7ccc-49d7-86f0-f241409e297a.JPG)
+![variables 5](https://user-images.githubusercontent.com/94313948/188273801-26959cfe-f8c3-4197-8d08-6ce5a174731f.JPG)
+
+
+
+
 
 ### Content 
 
