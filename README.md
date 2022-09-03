@@ -53,6 +53,9 @@ This is the data repository for the 2019 Novel Coronavirus Visual Dashboard oper
 - **usacountywise.csv** - Day to day county level no. of cases
 - **worldometer_data.csv** - Latest data from https://www.worldometers.info/
 
+![2](https://user-images.githubusercontent.com/94313948/188268170-a5418771-3b9f-445c-b210-2e02e4167936.JPG)
+
+
 ## Gallery: 
 (1) https://public.tableau.com/app/profile/ahmed.essam2620/viz/CoronavirusCOVID-19Cases_16621311993380/Dashboard1
 ![1](https://user-images.githubusercontent.com/94313948/188267912-27fcd2f9-5545-4315-af1e-0b41a2cc6174.JPG)
