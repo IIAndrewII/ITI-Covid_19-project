@@ -11,7 +11,8 @@ By:
 
 ## 🎯 Contributors
 
-<
+
+<img src="https://github.com/IIAndrewII/ITI-Covid_19-project/graphs/contributors" />
 </a>
 
 ## 🍀 Sponsors
