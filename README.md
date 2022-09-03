@@ -1,5 +1,8 @@
 # ITI-Covid_19-project
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IIAndrewII/ITI-Covid_19-project/HEAD?labpath=https%3A%2F%2Fgithub.com%2FIIAndrewII%2FITI-Covid_19-project%2Fblob%2Fmain%2Fcovid-19-analysis.ipynb)
+
+
 By:
  - Ahmed Essam
  - Andrew Samy
@@ -46,9 +49,6 @@ This is the data repository for the 2019 Novel Coronavirus Visual Dashboard oper
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IIAndrewII/ITI-Covid_19-project/HEAD?labpath=https%3A%2F%2Fgithub.com%2FIIAndrewII%2FITI-Covid_19-project%2Fblob%2Fmain%2Fcovid-19-analysis.ipynb)
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/IIAndrewII/ITI-Covid_19-project/HEAD?labpath=https%3A%2F%2Fgithub.com%2FIIAndrewII%2FITI-Covid_19-project%2Fblob%2Fmain%2Fcovid-19-analysis.ipynb
- 
 
 ### Content 
 
