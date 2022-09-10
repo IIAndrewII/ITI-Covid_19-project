@@ -16,10 +16,7 @@ By:
 
 <a href="https://github.com/IIAndrewII/ITI-Covid_19-project/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=IIAndrewII/ITI-Covid_19-project" />
-<img src="https://contrib.rocks/image?repo=Ahmedessamg/Ahmedessamg" />
-<img src="https://contrib.rocks/image?repo=hossamelzoghpy/dockerfile-task" />
-<img src="https://contrib.rocks/image?repo=SabreenElJilany/ELZERO-Templetes" />
-</a>
+
 
 ## 🍀 Sponsors
 
